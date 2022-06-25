@@ -186,4 +186,4 @@ async def stop(ctx):  # durdurma
 
 
 
-Bot.run('OTMzMzk1MTY0MDMzMDYwOTE0.Yeg5_A.JjELgiOpxDjz3IGmjZZp4ApFzkQ')
+Bot.run('buraya tokeni yazın')
