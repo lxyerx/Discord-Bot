@@ -12,13 +12,23 @@ Gerekli şeyleri youtube discord bot yapımı botu aktive etmeyi öğrenmeniz ye
 Komutlar: ! etiketiyle çalışır
 
 1- Ban
+
 2- Mute
+
 3- Kick
+
 3- Unban
+
 4- Her 60 dakikaya bir gülücük
+
 5- Yeni giren kişiye Hoşgeldin mesajı
+
 6- Çıkan kişiye gitme dur mesajı
+
 7- Komik Gifler
+
 8- oniki mesajı
+
 9- şarkı açma
+
 10- şarkı açma kapama devam ettirme özellikleri
