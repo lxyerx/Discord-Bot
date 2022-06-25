@@ -8,7 +8,9 @@ Gerekli şeyleri youtube discord bot yapımı botu aktive etmeyi öğrenmeniz ye
 (El emeği göz nuru kodlarımdır daha iyisi vardır benim bilgim bu kadarına yetti umarım faydasını görürsünüz iyi eğlenceler)
 
 Özellikleri: 
+
 Komutlar: ! etiketiyle çalışır
+
 1- Ban
 2- Mute
 3- Kick
