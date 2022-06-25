@@ -17,4 +17,3 @@ Komutlar: ! etiketiyle çalışır
 8- oniki mesajı
 9- şarkı açma
 10- şarkı açma kapama devam ettirme özellikleri
- 
