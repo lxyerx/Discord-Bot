@@ -1,5 +1,5 @@
 # Discord-Bot
-Python ile yazılmış discord botu bilgisayarınıza indirip çalıştırabilirsiniz
+Python ile yazılmış discord botu bilgisayarınıza indirip çalıştırabilirsiniz\n
 KODU DİREKT IDEYE KOPYALARSANIZ ÇALIŞTIRMAZ BELİRLİ ŞEYLERİ İNDİRMENİZ VE TOKEN ALMANIZ GEREK(ücretsiz)
 Gerekli şeyleri youtube discord bot yapımı botu aktive etmeyi öğrenmeniz yeterlidir kısa bir şey fakat yazıyla anlatmak zor
 (El emeği göz nuru kodlarımdır daha iyisi vardır benim bilgim bu kadarına yetti umarım faydasını görürsünüz iyi eğlenceler)
