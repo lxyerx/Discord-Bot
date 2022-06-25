@@ -8,7 +8,7 @@ Bot = commands.Bot(command_prefix="!")
 
 @Bot.event
 async def on_ready():
-    EmircanBaba.start()
+    start.start()
     await Bot.change_presence(activity=discord.Game(name='Cs 1.6 oynuyor'))
     print("Ben Hazırım !")
 
