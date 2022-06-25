@@ -43,7 +43,7 @@ async def on_member_remove(member):
     print(f"{member}  Gitmee dur ne olursun........")
 
 @Bot.command()
-async def komutlar(ctx):   # komtular
+async def komutlar(ctx):   # komutlar
     await ctx.send(
         "Komut Listemiz => selam,bruh,erolegemen,katya,dans,kadimana\n,kadimanaegleniyor,olaylarım,sewgi,roket,katyabebü,iyigeceler\n,oniki,clone,kick,ban,unban,play,pause,resume,leave")
 
