@@ -12,6 +12,8 @@ TOKEN KISMI BOŞ BIRAKILMIŞTIR KENDİ TOKENİNİZİ YAPIŞTIRINIZ
 
 Komutlar: ! etiketiyle çalışır
 
+!komutlar  / yazarsanız komutlar listesi görüntülenir eğer isterseniz koddaki yorum satırlarından okuyabilirsiniz 
+
 1- Ban
 
 2- Mute
