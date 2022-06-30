@@ -28,10 +28,12 @@ Komutlar: ! etiketiyle çalışır
 
 6- Çıkan kişiye gitme dur mesajı
 
-7- Komik Gifler
+7- Yeni gelmiş kişiye hoş geldin mesajı
 
-8- oniki mesajı
+8- Komik Gifler
 
-9- şarkı açma
+9- oniki mesajı
 
-10- şarkı açma kapama devam ettirme özellikleri
+10- şarkı açma
+
+11- şarkı açma kapama devam ettirme özellikleri
